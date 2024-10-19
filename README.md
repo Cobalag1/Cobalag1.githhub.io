@@ -1,12 +1,1 @@
-<!DOCTYPE html>
-<html>
-<head>
-<title>Belajar Ngoding</title>
-</head>
-<body>
-<b>
-<p align="center"> lagi belajar</p>
-<img src="Pictures/Telegram/Memeng.jpg" alt="foto memeng" width="400px" heigth="300px">
-<p>sayang Fadilah </p>
-</body>
-<html>
+
